@@ -1,3 +1,4 @@
-def my_each # put argument(s) here
+def my_each(array)
   # code here
+  
 end
