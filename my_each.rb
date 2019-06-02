@@ -7,8 +7,3 @@ def my_each(array)
   array
 end
 
-yielding do
-  my_each(array) do |i|
-    puts i
-  end
-end
